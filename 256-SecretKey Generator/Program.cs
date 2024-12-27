@@ -26,10 +26,14 @@ class Program
             // Copy the key to the clipboard
             cb.SetText(key);
             Console.WriteLine("\nThe key has been copied to the clipboard.");
+            Console.WriteLine("Press any key to close the program.");
+            Console.ReadLine();
         }
         catch (Exception ex)
         {
             Console.WriteLine("\nError copying to clipboard: " + ex.Message);
+            Console.WriteLine("Press any key to close the program. DONT FORGET TO COPY YOUR KEY!");
+            Console.ReadLine();
         }
     }
 
