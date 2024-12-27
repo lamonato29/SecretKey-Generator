@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SS95RwRqpQwocRn3ik25kshen2u/iZL7U37jNFMo2MGCw72EsqtNAFt5tHgN3TUDzU2i7SfSN/VCuqdU5lpPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djbru\\source\\repos\\256-SecretKey Generator\\256-SecretKey Generator\\256-SecretKey Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djbru\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\djbru\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\djbru\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512",
+    "C:\\Users\\djbru\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
